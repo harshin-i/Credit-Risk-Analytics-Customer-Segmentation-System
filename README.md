@@ -1,4 +1,4 @@
-# 📊 NBFC Credit Risk Analytics & Borrower Segmentation  
+# 📊 Credit Risk Analytics & Borrower Segmentation  
 ### End-to-End ML + Analytics Project (Python, Random Forest, KMeans)
 
 This project is an **end-to-end Credit Risk Analytics system** built for the **NBFC / FinTech lending** domain.  
